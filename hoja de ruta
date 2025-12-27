@@ -1,0 +1,85 @@
+Hoja de ruta (orden de aprendizaje y práctica)
+
+La divido en Fases, para que no sea caótico:
+
+📍 Fase 1 – Base sólida
+
+Finanzas aplicadas: profundizar en lo que ya estudias en tu diplomado (WACC, TIR, valuación, renta fija, derivados, riesgo).
+
+Procesos: perfeccionar BPM (AS-IS, TO-BE, indicadores, flujos).
+
+Herramientas iniciales:
+
+Excel/VBA (ya lo dominas, lo usaremos como base).
+
+SQL (Server y MySQL/Postgres): aprender a construir, optimizar y homologar queries.
+
+Power BI: dashboards financieros y de procesos.
+
+👉 Resultado esperado: ya puedes levantar un proceso y presentar un dashboard de diagnóstico financiero.
+
+📍 Fase 2 – Tecnología aplicada
+
+Python para automatización y análisis financiero (pandas, numpy, openpyxl, APIs).
+
+Integración con fuentes externas: SII, bancos, conciliaciones automáticas.
+
+Modelado de datos financieros: staging, ETL básico, arquitectura de bases.
+
+Cloud básico: Azure Data Studio o Google BigQuery (manejo de datasets grandes).
+
+👉 Resultado esperado: pasar de Excel manual → arquitectura de datos automatizada.
+
+📍 Fase 3 – Consultoría Fintech
+
+Casos reales:
+
+Diagnóstico de flujo de caja en una pyme.
+
+Automatización de reportes financieros.
+
+Implementación de conciliaciones bancarias con Python + SQL.
+
+Metodología de consultoría: diagnóstico, propuesta, roadmap, ejecución, entrega.
+
+Herramientas complementarias:
+
+Notion (documentación consultoría).
+
+Miro / Bizagi (mapas de procesos).
+
+👉 Resultado esperado: portafolio de proyectos Fintech (al menos 3 casos).
+
+📍 Fase 4 – Posicionamiento profesional
+
+Perfil LinkedIn y CV enfocado en “Consultor en Procesos Financieros y Soluciones Fintech”.
+
+Lenguaje técnico y ejecutivo:
+
+Cómo hablar con un CFO vs cómo hablar con un programador.
+
+Presentación ejecutiva (resúmenes claros y orientados a decisiones).
+
+Imagen profesional:
+
+Presencia (ropa, estilo, tono).
+
+Apariencia digital (firma, marca personal, portafolio online).
+
+👉 Resultado esperado: ya eres un consultor independiente o intraemprendedor dentro de RedSalud y luego con clientes externos.
+
+👔 4. Perfil profesional (meta final)
+
+Consultor en Finanzas y Soluciones Fintech
+
+Dominio en levantamiento y modelamiento de procesos financieros (BPMN).
+
+Experto en diagnóstico de problemas financieros reales vs síntomas.
+
+Capacidad técnica en SQL, Python, Power BI y bases de datos.
+
+Habilidad para integrar gestión financiera + soluciones tecnológicas.
+
+Comunicador claro en lenguaje técnico y ejecutivo.
+
+Imagen profesional sólida, con marca personal en LinkedIn y portafolio.
